@@ -1,5 +1,7 @@
 # Deferring Module Evaluation
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 previously known as "Lazy Module Initialization"
 
 ## Status
